@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gualterrp
-- 👀 I’m interested in py for data science and webdev
+- 👀 I’m interested in python for data science and webdev
 - 🌱 I’m currently learning flask and django
 - 
 <!---
